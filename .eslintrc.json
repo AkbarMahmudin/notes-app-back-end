@@ -13,6 +13,9 @@
     },
     "rules": {
         "no-console": "off",
-        "linebreak-style": "off"
+        "linebreak-style": "off",
+        "class-methods-use-this": "off",
+        "no-underscore-dangle": "off",
+        "camelcase": "warn"
     }
 }
